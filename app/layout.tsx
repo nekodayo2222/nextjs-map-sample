@@ -3,6 +3,7 @@ import "./tailwind.css";
 
 export const metadata: Metadata = {
   title: "nextjs-map-sample",
+  robots: "noindex, nofollow",
 };
 
 export default function RootLayout({

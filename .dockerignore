@@ -1,0 +1,9 @@
+**/.dockerignore
+**/.git
+**/.gitignore
+**/.github
+**/.next
+**/Dockerfile*
+**/node_modules
+LICENSE
+README.md
